@@ -1,5 +1,7 @@
 # MathBuddy - AI Math Coaching Agent
 
+> **GCP Project ID:** `math-coach-agent` &nbsp;|&nbsp; **Gemini Live Agent Challenge Entry**
+
 Real-time voice coaching for math students, powered by Google's **Gemini Live API** and the **Agent Development Kit (ADK)**. Students photograph their work, receive instant AI grading, and get personalized Socratic voice coaching -- all through a mobile-friendly web app.
 
 Built for the [Gemini Live Agent Challenge](https://ai.google.dev/competition/projects/live-agents).
