@@ -1,6 +1,6 @@
 {
-  "name": "Math Coach - AI Math Tutor",
-  "short_name": "Math Coach",
+  "name": "MathBuddy - AI Math Tutor",
+  "short_name": "MathBuddy",
   "description": "AI-powered math tutor with real-time voice coaching",
   "start_url": "/",
   "display": "standalone",

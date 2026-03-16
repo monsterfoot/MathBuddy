@@ -9,6 +9,7 @@ load_dotenv(Path(__file__).parent / ".env")
 
 # Configure logging — ensure our app logs show at INFO level
 logging.basicConfig(level=logging.INFO, format="%(levelname)s:%(name)s: %(message)s")
+logger = logging.getLogger(__name__)
 
 from contextlib import asynccontextmanager
 

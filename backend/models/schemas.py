@@ -24,7 +24,7 @@ class WorkbookStatus(str, Enum):
 
 
 class WorkbookVisibility(str, Enum):
-    PRIVATE = "private"          # 본인만 사용
+    PRIVATE = "private"          # private to owner
     PUBLIC = "public"            # 누구나 열람 가능
     FOR_SALE = "for_sale"        # 판매용 (구매 전 잠김)
     PURCHASED = "purchased"      # 구매 완료

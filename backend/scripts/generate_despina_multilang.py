@@ -1,11 +1,11 @@
 """
-Despina 목소리 일본어/영어 샘플 생성 스크립트
+Generate Despina voice samples in Japanese and English.
 
-사용법:
+Usage:
   cd backend
   python scripts/generate_despina_multilang.py
 
-출력: backend/voice_samples/ 디렉토리에 WAV 파일 생성
+Output: WAV files written to backend/voice_samples/
 """
 
 import os
@@ -97,7 +97,7 @@ def main():
             print("FAILED")
 
     print("-" * 50)
-    print(f"파일 위치: {OUTPUT_DIR}")
+    print(f"Output location: {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
