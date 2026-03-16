@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Node
+node_modules/
+.next/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google Cloud
+service-account-key.json
+
+# Build
+*.log
+
+# Local TLS certs
+certs/
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Internal notes (Korean docs, hackathon rules, etc.)
+full rule.md
+전체 설계.md
+향후 업데이트.txt
+수학 표현 방법.md
+disable_case/
+backend/backups/
+backend/voice_samples/
+backend/=*
+*.wav

@@ -1,0 +1,17 @@
+{
+  "name": "Math Coach - AI Math Tutor",
+  "short_name": "Math Coach",
+  "description": "AI-powered math tutor with real-time voice coaching",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
